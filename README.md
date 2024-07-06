@@ -26,10 +26,9 @@ WARNING: This is not a full-featured test framework. It is a simple test framewo
 
 ```
 #include <iostream>
-#include <cstdint>
 
 #ifdef CPP_UNIT_TEST
-#include "../cpp-test.hpp"
+#include "cpp-test.hpp"
 
 void math_tests()
 {
