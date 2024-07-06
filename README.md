@@ -65,3 +65,11 @@ int main()
     return 0;
 }
 ```
+
+Output:
+
+```
+Starting tests...
+Tests passed: 6
+Tests failed: 0
+```
